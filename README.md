@@ -1,1 +1,0 @@
-# App.vue-Movie-repository
